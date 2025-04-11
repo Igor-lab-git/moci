@@ -10,3 +10,8 @@ btn.addEventListener('click', () => {
 
     div.innerHTML += input
 })
+console.log('test')
+console.log('test')
+console.log('test')
+console.log('test')
+console.log('test')
